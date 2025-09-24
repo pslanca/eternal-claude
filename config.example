@@ -1,0 +1,15 @@
+# EternalClaude Configuration Example
+# Copy this file to config.local and customize your values
+# Then source it: source config.local
+
+# Your Google Cloud Project ID
+export PROJECT="your-gcp-project-id"
+
+# Google Cloud Zone where your VM is located
+export ZONE="europe-west1-b"
+
+# VM instance name
+export VM="eternal-claude"
+
+# SSH username on the VM
+export USER="claude"

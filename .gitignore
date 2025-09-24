@@ -1,0 +1,23 @@
+# Claude Code settings (user-specific)
+.claude/
+
+# Local configuration
+config.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*~
