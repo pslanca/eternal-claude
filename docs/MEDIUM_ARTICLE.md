@@ -1,4 +1,8 @@
-# Eternal Claude: How I Gave My AI a Memory
+# Eternal Claude: From Blindness to Amnesia (and How I Fixed Both)
+
+*A designer's journey from blind automation to visual understanding—with Figma and VS Code finally united*
+
+---
 
 It happened right in the middle of *FigmaVision* — the project where I taught AI to “see” its own designs.
 
@@ -124,9 +128,24 @@ Together, these projects sketch out the beginning of something bigger: AI that's
 
 ---
 
+## Try It Yourself
+
+The complete EternalClaude setup is available on GitHub:
+**[github.com/pslanca/eternal-claude](https://github.com/pslanca/eternal-claude)**
+
+Includes:
+- Automated connection scripts
+- Configuration templates
+- Complete setup documentation
+- The exact workflow I use daily
+
+It takes about 5 minutes to get your persistent AI workspace running.
+
+---
+
 ## Closing
 If *FigmaVision* was about curing blindness, *Eternal Claude* is about curing amnesia.
 
 Both projects grew out of late-night frustration, experiments, and one perfectly timed joke from Claude itself.
 
-Because sometimes the most human part of working with AI isn’t the code — it’s when the AI makes you laugh at your own project’s name.
+Because sometimes the most human part of working with AI isn't the code — it's when the AI makes you laugh at your own project's name.
